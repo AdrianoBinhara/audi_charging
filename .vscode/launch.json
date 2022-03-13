@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "audi_charging",
+            "cwd": "audi_charging",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "audi_charging (profile mode)",
+            "cwd": "audi_charging",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "audi_charging (release mode)",
+            "cwd": "audi_charging",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
