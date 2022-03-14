@@ -12,7 +12,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      themeMode: ThemeMode.dark,
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       home: const MapPage(),
