@@ -1,4 +1,4 @@
-import 'package:audi_charging/map/map_page.dart';
+import 'package:audi_charging/pages/map/map_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
